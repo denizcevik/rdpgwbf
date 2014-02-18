@@ -2,7 +2,7 @@ description = [[
 Detects Microsoft RDP Gateways with HTTP over RPC requests.
 ]]
  
-author = "Deniz Cevik"
+author = "Deniz Cevik from Biznet"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 categories = {"discovery", "safe"}
 
